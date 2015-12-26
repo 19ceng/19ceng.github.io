@@ -38,7 +38,6 @@ navigator:
         0: Genel
         1: Görüntü İşleme
         2: Bilgisayarla Görü
-        3: Makine Öğrenme
-        8: İstatistik
-        9: Donanım
+        7: Makine Öğrenme, İstatistik, Örüntü Tanıma, Deep Learning
+        9: Donanım, Realtime
 
