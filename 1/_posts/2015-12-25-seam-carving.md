@@ -21,4 +21,11 @@ ve yine klasik yolla (sol) ve akı(l)cı (sağ) ölçekleyecek olsak (`800x200`)
 
 # Yöntem
 
+TODO
+
 # Kaynaklar
+
+1. http://www.faculty.idc.ac.il/ARIK/site/seam-carve.asp
+2. https://en.wikipedia.org/wiki/Seam_carving
+2. http://www.imagemagick.org/Usage/resize/
+3. https://www.youtube.com/watch?v=vIFCV2spKtg
