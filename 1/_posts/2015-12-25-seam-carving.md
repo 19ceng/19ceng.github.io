@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Seam Carving (
+title: Akı(l)cı Ölçekleme (Seam Carving veya Liquid Resampling)
 ---
 
-Akı(l)cı ölçekleme (seam carving veya liquid resampling), Shai Avidan ve Ariel Shamir tarafından 2007 yılında geliştirilmiş, resim içeriğini dikkate alarak ölçekleme yapar. Resim içeriğini dikkate almaksızın ölçekleme çeşitli sorunları doğurur. Örneğin,
+Akı(l)cı Ölçekleme (seam carving veya liquid resampling), Shai Avidan ve Ariel Shamir tarafından 2007 yılında geliştirilmiş, resim içeriğini dikkate alarak ölçekleme yapar. Resim içeriğini dikkate almaksızın ölçekleme çeşitli sorunları doğurur. Örneğin,
 
 ![](http://19ceng.github.io/assets/posts/afis_800x363.png)
 
