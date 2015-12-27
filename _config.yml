@@ -36,8 +36,8 @@ twitter: ~
 
 navigator:
         0: Genel
-        1: Görüntü İşleme
-        2: Bilgisayarla Görü
-        7: Makine Öğrenme, İstatistik, Örüntü Tanıma, Deep Learning
-        9: Donanım, Realtime
+        1: Görüntü İşleme, Bilgisayarla Görü, Örüntü Tanıma, Makine Öğrenme
+        2: İstatistik, Deep Learning, Yapay Zeka, Donanım, Realtime
+        7: Projeler
+        9: Eğitim-Öğretim
 
