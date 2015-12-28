@@ -3,21 +3,28 @@ layout: post
 title: Akı(l)cı Ölçekleme (Seam Carving veya Liquid Resampling)
 ---
 
-Akı(l)cı Ölçekleme (seam carving veya liquid resampling), Shai Avidan ve Ariel Shamir tarafından 2007 yılında geliştirilmiş, resim içeriğini dikkate alarak ölçekleme yapar. Resim içeriğini dikkate almaksızın ölçekleme çeşitli sorunları doğurur. Örneğin,
+Akı(l)cı Ölçekleme (seam carving veya liquid resampling), Shai Avidan ve Ariel
+Shamir tarafından 2007 yılında geliştirilmiş, resim içeriğini dikkate alarak
+ölçekleme yapar. Resim içeriğini dikkate almaksızın ölçekleme çeşitli sorunları
+doğurur. Örneğin, aşağıdaki resim olsun,
 
 ![](http://19ceng.github.io/assets/posts/afis_800x363.png)
 
-resmini (`800x363`) klasik yolla (sol) ve akı(l)cı (sağ) ölçekleyecek olsak (`400x363`),
+1) resmin (`400x363`) boyutunun crop (sol), resize (orta) ve akı(l)cı (sağ)
+ölçekleme sonucu,
 
-![C](http://19ceng.github.io/assets/posts/afis_400x363_classic.png)
+![C](http://19ceng.github.io/assets/posts/afis_400x363_crop.png)
+![R](http://19ceng.github.io/assets/posts/afis_400x363_resize.png)
 ![SC](http://19ceng.github.io/assets/posts/afis_400x363.png)
 
-ve yine klasik yolla (sol) ve akı(l)cı (sağ) ölçekleyecek olsak (`800x200`)
+2) resmin (`800x200`) boyutunun crop (sol), resize (orta) ve akı(l)cı (sağ)
+   ölçekleme sonucu,
 
-![C](http://19ceng.github.io/assets/posts/afis_800x200_classic.png)
+![C](http://19ceng.github.io/assets/posts/afis_800x200_crop.png)
+![R](http://19ceng.github.io/assets/posts/afis_800x200_resize.png)
 ![SC](http://19ceng.github.io/assets/posts/afis_800x200.png)
 
-şeklinde bozulmuş görüntüler alırdık.
+elde edilir.
 
 # Yöntem
 
