@@ -13,11 +13,11 @@ doğurur. Örneğin, aşağıdaki resim olsun,
 1) resmin (`400x363`) boyutunun crop (sol), resize (orta) ve akı(l)cı (sağ)
 ölçekleme sonucu,
 
-![C](http://19ceng.github.io/assets/posts/afis_400x363_crop.png)
-![R](http://19ceng.github.io/assets/posts/afis_400x363_resize.png)
-![SC](http://19ceng.github.io/assets/posts/afis_400x363.png)
+<img src="http://19ceng.github.io/assets/posts/afis_400x363_crop.png" width=266>
+<img src="http://19ceng.github.io/assets/posts/afis_400x363_resize.png" width=266>
+<img src="http://19ceng.github.io/assets/posts/afis_400x363.png" width=266>
 
-2) resmin (`800x200`) boyutunun crop (sol), resize (orta) ve akı(l)cı (sağ)
+2) resmin (`800x200`) boyutunun crop (üst), resize (orta) ve akı(l)cı (alt)
    ölçekleme sonucu,
 
 ![C](http://19ceng.github.io/assets/posts/afis_800x200_crop.png)
