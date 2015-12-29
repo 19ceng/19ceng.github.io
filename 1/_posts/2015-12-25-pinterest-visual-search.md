@@ -5,7 +5,13 @@ title: Görsel Arama
 
 Pinterest 2010 yılında kurulmuş, 70 milyondan fazla kullanıcısı olan her türlü görselin paylaşıldığı ve pano sistemiyle çalışan bir sosyal platformdur. Bu yazının konusu ise pinterest ile birlikte endüstriyel ün kazanan görsel arama üzerine olacak. Bu özellik sayesinde "benzer paylaşımlar" ve "benzer görünüşler" için öneri/aram imkanı sunulabilmektedir.
 
-Örnek: çanta arama sonuçları,
+# Yöntem
+
+**[jing2015]** vd. yaptıkları çalışmada derinlemesine konvolüsyon ağlarının (CNNs) ara katmanlarından resimlerin yerel öznitelikleri ve "derin öznitelikleri" çıkarmışlardır. Kullandıkları CNNs, AlexNet ve VGG mimarileri temelinde seçmişlerdir. Özniteliklerinin temsil etkinliğini arttırmak için ikilleştirmişler ve Hamming mesafesi kullanarak karşılaştırmıştırlarr. Açık kaynak kod Caffe kullanarak eğitim ve çıkarım sağlamışlardır.
+
+# Örnek
+
+Çanta arama sonuçları,
 
 ![](http://i.imgur.com/NnoSJ19.png)
 
