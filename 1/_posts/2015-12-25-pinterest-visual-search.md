@@ -10,6 +10,8 @@ Benzer bir yaklaşımın <http://www.dressbit.com/> sitesinde de yapıldığı g
 > 8bit olarak Deep Learning teknikleri ile demo amaciyla gelistirdigimiz moda platformu www.dressbit.com . Amacimiz begendiginiz urunlere gorsel olarak benzeyen urunleri kullaniciya sunmak. Urunun amaci biraz out of scope bizler icin ama yinede paylasmak istedim :)﻿
 > **Sitenin sloganı**: Click to find similar fashion. Shuffle to discover.
 
+Ayrıca Cloudinary'de bunun benzeri işlere başlamış (ilkel düzeyde de olsa), [How-to automatically identify similar images using pHash](http://cloudinary.com/blog/how_to_automatically_identify_similar_images_using_phash)
+
 # Yöntem
 
 **[jing2015]** vd. yaptıkları çalışmada derinlemesine konvolüsyon ağlarının (CNNs) ara katmanlarından resimlerin yerel öznitelikleri ve "derin öznitelikleri" çıkarmışlardır. Kullandıkları CNNs, AlexNet ve VGG mimarileri temelinde seçmişlerdir. Özniteliklerinin temsil etkinliğini arttırmak için ikilleştirmişler ve Hamming mesafesi kullanarak karşılaştırmıştırlarr. Açık kaynak kod Caffe kullanarak eğitim ve çıkarım sağlamışlardır.
